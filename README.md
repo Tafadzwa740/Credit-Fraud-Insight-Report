@@ -25,7 +25,7 @@ Dashboard Requirements
 Filters Panel: Allow users to filter data based on month, day, and location. Visualizations: Display total the merchant names where the transactions took place. by . KPIs Display: Showcase the key fraudlent rate,Critical Risk transaction etc. Interactive Elements: Use slicers, filters, and dynamic visuals to make the dashboard interactive and user-friendly.
 
 ## Dashboard for fraud risk insight
-
+https://github.com/Tafadzwa740/Credit-Fraud-Insight-Report/blob/main/credit%20card%20dashboard%20report.png
 
 ## IMPORTANCE OF THIS REPORT
 Cost Saving
