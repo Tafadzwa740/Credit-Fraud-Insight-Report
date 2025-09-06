@@ -24,12 +24,17 @@ Transactions that have led to many losses: Visualize the period at which people 
 Dashboard Requirements
 Filters Panel: Allow users to filter data based on month, day, and location. Visualizations: Display total the merchant names where the transactions took place. by . KPIs Display: Showcase the key fraudlent rate,Critical Risk transaction etc. Interactive Elements: Use slicers, filters, and dynamic visuals to make the dashboard interactive and user-friendly.
 
+## Dashboard for fraud risk insight
+
 
 ## IMPORTANCE OF THIS REPORT
 Cost Saving
 Customer Trust and Satisfaction
 Enhanced sound Decision Making
 Fraud detection and Prevention
+
+## Conclusion 
+Creating an End To End Power BI dashboard from start to finish is a comprehensive process that transforms raw data into meaningful insights. The credit fraud insight analysis dashboard, as demonstrated provides critical insights into areas mostly affected with credit fraud risks, month at which fraud wa the highest as well as the lowest. The dashboard allows stakeholders to identify peak fraud periods, top risk locations, and the most popular merchant areas where most transactions took place, thereby enabling data-driven decision-making.
 
 
 
